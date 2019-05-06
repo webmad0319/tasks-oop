@@ -1,0 +1,17 @@
+.dialog {
+    border-radius: 20px;
+    border: 1px solid grey;
+    background: white;
+    box-shadow: 0 0 3px rgba(100, 100, 100, 0.6);
+    margin: 20px;
+}
+
+.dialog h1 {
+    border-bottom: 1px solid grey;
+    margin-bottom: 10px;
+}
+
+.dialog h1,
+.dialog section {
+    padding: 10px;
+}

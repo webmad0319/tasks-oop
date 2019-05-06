@@ -1,0 +1,11 @@
+.colorPalette {
+    width: 100px;
+    background-color: #3d3d3d;
+    padding: 10px;
+    color: white;
+}
+
+.colorPalette ul {
+    display: flex;
+    flex-wrap: wrap;
+}
